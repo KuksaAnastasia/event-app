@@ -11,3 +11,6 @@ Mobile application for organizing events.
 - Database: MongoDB
 - Authentication: Firebase Auth
 - Notifications: Firebase Cloud Messaging
+
+Notes:
+This app is designed for quick event setup and easy participant management.
